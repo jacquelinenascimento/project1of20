@@ -5,5 +5,7 @@
  ## 🛠️ Tecnologias usadas
  
  * HTML, CSS
+ 
+<a target="_blank" href="https://jacquelinenascimento.github.io/project1of20/"> Resultado </a>
 
 
