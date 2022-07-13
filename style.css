@@ -32,6 +32,8 @@ img {
     border-radius: 0 24px 24px 0;
     padding: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
 }
 
 .container p {
@@ -51,6 +53,7 @@ img {
     display: flex;
     justify-content:space-around;
     align-items: center;    
+    flex-wrap: wrap;
 }
 
 .prices p {
@@ -64,7 +67,6 @@ img {
 .buy {
     width: 20vh;
     height: 5vh;
-    display: inline-block;
     margin: 10px;
     cursor: pointer;
     border-radius: 8px;
