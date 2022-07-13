@@ -6,6 +6,6 @@
  
  * HTML, CSS
  
-<a target="_blank" href="https://jacquelinenascimento.github.io/project1of20/"> Clique aqui para abrir o preview em nova aba </a>
+<a target="_blank" href="https://jacquelinenascimento.github.io/project1of20/"> Clique aqui para abrir o preview do projeto</a>
 
 
